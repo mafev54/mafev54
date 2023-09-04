@@ -12,14 +12,14 @@ My experience extends to the server side, where Express.js and Node.js are my al
   <a href="https://github.com/mafev54/mafev54" target="blank">
     <img align="center" src="https://github.com/mafev54/mafev54/blob/main/GitHub-logotype.png" alt="mafe valencia" height="40" width="40" />
   </a>
+  <a href="https://mail.google.com/mail/u/0/?dispatcher_command=master_lookup&hl=es_419#inbox?compose=CllgCJlKGJRVRmczTHKlRRtMBxTHxdPwBQFbwxkFKSlhFgFCWrMcmQCHfNhmCTrjKmwShffPXnV" target="blank">
+    <img align="center" src="https://github.com/mafev54/mafev54/blob/main/gmailicon.jpg" alt="mafe valencia" height="60" width="80" />
+  </a>
   <a href="https://github.com/mafev54/mafev54" target="blank">
     <img align="center" src="https://github.com/mafev54/mafev54/blob/main/torrelogo.jpg" alt="mafe valencia" height="30" width="30" />
   </a>
   <a href="https://github.com/mafev54/mafev54" target="blank">
     <img align="center" src="https://github.com/mafev54/mafev54/blob/main/web.site.png" alt="mafe valencia" height="40" width="40" />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?dispatcher_command=master_lookup&hl=es_419#inbox?compose=CllgCJlKGJRVRmczTHKlRRtMBxTHxdPwBQFbwxkFKSlhFgFCWrMcmQCHfNhmCTrjKmwShffPXnV" target="blank">
-    <img align="center" src="https://github.com/mafev54/mafev54/blob/main/gmailicon.jpg" alt="mafe valencia" height="50" width="70" />
   </a>
 </p>
 
