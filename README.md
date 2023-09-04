@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mafe valencia</h1>
-<h3 align="center">A passionate junior full-stack developer from Colombia. I like to work with JavaScript, Node.js, MongoDB, Express.js and Angular</h3>
+<h1 align="center">Hello , I'm Mafe valencia</h1>
+<p align="center">I am a Full Stack Web Developer with a specialized focus on the MEAN stack world (MongoDB, Express.js, Angular and Node.js). My journey in web development started as a curiosity and quickly turned into a passion that has led me to explore and master all facets of creating modern web applications.
+
+From the client side, I love designing attractive and functional user interfaces using Angular. This technology allows me to bring ideas to life and turn them into interactive experiences that users love. But I don't stop there. 
+My experience extends to the server side, where Express.js and Node.js are my allies for building robust and scalable applications that can handle a large number of requests seamlessly. I also decided to learn programming and was quickly drawn to Python and its elegant syntax. Eventually, my curiosity led me to explore Django, a high-level web development framework that simplifies the creation of robust and scalable web applications.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
