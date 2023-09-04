@@ -15,7 +15,7 @@ My experience extends to the server side, where Express.js and Node.js are my al
   <a href="https://github.com/mafev54/mafev54" target="blank">
     <img align="center" src="https://github.com/mafev54/mafev54/blob/main/web.site.png" alt="mafe valencia" height="40" width="40" />
   </a>
-  <a href="https://github.com/mafev54/mafev54" target="blank">
+  <a href="valenciamafe651@gmail.com" target="blank">
     <img align="center" src="https://github.com/mafev54/mafev54/blob/main/gmailicon.jpg" alt="mafe valencia" height="40" width="60" />
   </a>
 </p>
