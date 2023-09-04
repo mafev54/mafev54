@@ -8,9 +8,11 @@ My experience extends to the server side, where Express.js and Node.js are my al
 <p align="left">
   <a href="https://www.linkedin.com/in/mafe-valencia-4b8b7528a/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mafe valencia" height="30" width="40" />
-    <p>
-      https://www.linkedin.com/in/mafe-valencia-4b8b7528a/
-    </p>
+  </a>
+  <a href="https://www.linkedin.com/in/mafe-valencia-4b8b7528a/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mafe valencia" height="30" width="40" />
+    <a href="https://github.com/mafev54/mafev54" target="blank">
+    <img align="center" src="https://www.google.com/url sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw0BJ3XEBDqnAy3EgvQ_bGf9&ust=1693932430054000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCh1Je0kYEDFQAAAAAdAAAAABAE" alt="mafe valencia" height="30" width="40" />
   </a>
 </p>
 
